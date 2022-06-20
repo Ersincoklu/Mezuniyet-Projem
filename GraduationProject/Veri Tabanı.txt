@@ -1,0 +1,133 @@
+create database DvdVcdOtomasyon
+use DvdVcdOtomasyon
+
+create table Kullanicilar 
+(
+	KullaniciId int primary key identity(1,1),
+
+	KullaniciAdi nvarchar(25),
+	KullaniciSifre nvarchar(25),
+	Aktif bit
+)
+
+
+create table KullaniciTur
+(
+	KullaniciTurId int primary key identity(10,1),
+	KullaniciId int foreign key references Kullanicilar(KullaniciId),
+	KullaniciTurAd nvarchar(25)
+)
+
+create table UrunTip --vcd/dvd
+(
+	UrunTipId int primary key identity(20,1),
+	UrunTipAd nvarchar(10) 
+)
+
+create table UrunTur --film/muzik/oyun
+(	
+	UrunTurId int primary key identity(30,1),
+	UrunTurAd nvarchar(25)
+)
+
+create table UrunKategori --macera/aksiyon v.s.
+(
+	UrunKategoriId int primary key identity(40,1),
+	UrunTurId int foreign key references UrunTur(UrunTurId),
+	UrunKategoriAd nvarchar(25),
+	Aktif bit
+)
+/*
+create table UrunKategoriDetay
+(
+	UrunKategoriDetayId int primary key identity(50,1),
+	UrunKategoriId int foreign key references UrunKategori(UrunKategoriId),
+	UrunKategoriDetayAd nvarchar(25)
+)
+*/
+create table Urun
+(
+	UrunId int primary key identity(100,1),
+	UrunTipId int foreign key references UrunTip(UrunTipId),
+	UrunTurId int foreign key references UrunTur(UrunTurId),
+	UrunKategoriId int foreign key references UrunKategori(UrunKategoriId),
+	UrunKodu int,
+	UrunAd nvarchar(25),
+	UrunFiyati money,
+	UrunOzeti nvarchar(250),
+	UrunAlisFiyati money,
+	UrunSatisFiyati money,
+	Aktif bit
+	--UrunIbmdPuani double
+)
+
+create table UrunDetay
+(
+	UrunDetayId int primary key identity (30000,1),
+	ImbdPuani float,
+	Sanatci nvarchar(50),
+	Aktif bit
+)
+
+create table UrunStok
+(
+	UrunStokId int primary key identity (10000,1),
+	UrunId int foreign key references Urun(UrunId)
+	UrunAdet int,
+	UrunGelisTarihi date
+)
+
+create table Musteri
+(
+	MusteriId int primary key identity(20000,1),
+	MusteriAd nvarchar(25),
+	MusteriSoyad nvarchar(25),
+	MusteriTc nvarchar(11),
+	MusteriCepNo nvarchar(11),
+	MusteriCinsiyet char,
+	MusteriMail nvarchar(50),
+	MusteriAdres nvarchar(25),
+	MusteriNot nvarchar(100),
+	Aktif bit
+)
+
+
+create table UrunKiralama
+(
+	UrunKiralamaId int primary key identity(40000,1),
+	UrunId int foreign key references Urun(UrunId),
+	MusteriId int foreign key references Musteri(MusteriId),
+	UrunKiraBedeli money,
+	UrunBaslangicTarih datetime,
+	UrunBitisTarih datetime
+)
+
+create table UrunSatis
+(
+	UrunSatisId int primary key identity(50000,1),
+	UrunId int foreign key references Urun(UrunId),
+	MusteriId int foreign key references Musteri(MusteriId),
+	UrunSatisBedeli money,
+	UrunSatisTarihi datetime
+)
+
+create table Odeme
+(
+	OdemeID int primary key identity(60000,1),
+	OdemeTipi nvarchar(25)
+)
+
+create table Kasa 
+(
+	KasaId int primary key identity(70000,1),
+	KasaAd nvarchar(25),
+	Aktif bit
+)
+
+create table KaraListe 
+(
+	KaraListeId int primary key identity(80000,1),
+	MusteriId int foreign key references Musteri(MusteriId),
+	Metin nvarchar(250)
+)
+

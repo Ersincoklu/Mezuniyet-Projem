@@ -1,0 +1,102 @@
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.DovizCevirme.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.HarcamalarOdemeler.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Islem.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KaraListe.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KaraListeIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KasaIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Kasalar.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KiraIslem.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KiralikDvd.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KullaniciGiris.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KullanicilarYonetim.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KullaniciYonetimIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriAyar.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriIslem.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.MusterilerForm.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Satis.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.UrunSatis.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.UrunlerDvd.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.UrunlerVcd.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\DAL.dll
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\BLL.pdb
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\DAL.pdb
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.UrunIdFormu.resources
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriIdFormu.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\bin\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\bin\Debug\DAL.dll
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\bin\Debug\BLL.pdb
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\bin\Debug\DAL.pdb
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.DovizCevirme.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.HarcamalarOdemeler.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.Islem.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.KaraListe.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.KaraListeIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.KasaIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.Kasalar.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.KiraIslem.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.KiralikDvd.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.KullaniciGiris.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.KullanicilarYonetim.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.KullaniciYonetimIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriAyar.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriIdFormu.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriIslem.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.MusterilerForm.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.Satis.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.UrunIdFormu.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.UrunSatis.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.UrunlerDvd.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.UrunlerVcd.resources
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\bin\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\bin\Debug\DAL.dll
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\bin\Debug\BLL.pdb
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\bin\Debug\DAL.pdb
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.DovizCevirme.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.HarcamalarOdemeler.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.Islem.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.KaraListe.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.KaraListeIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.KasaIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.Kasalar.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.KiraIslem.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.KiralikDvd.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.KullaniciGiris.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.KullanicilarYonetim.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.KullaniciYonetimIslemleri.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriAyar.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriIdFormu.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.MusteriIslem.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.MusterilerForm.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.Satis.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.UrunIdFormu.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.UrunSatis.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.UrunlerDvd.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.UrunlerVcd.resources
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache

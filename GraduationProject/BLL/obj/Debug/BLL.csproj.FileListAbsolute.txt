@@ -1,0 +1,21 @@
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\BLL\bin\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\BLL\bin\Debug\BLL.pdb
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\BLL\bin\Debug\DAL.dll
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\BLL\bin\Debug\DAL.pdb
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\BLL\obj\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\ProjeOdevi\BLL\obj\Debug\BLL.pdb
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\BLL\bin\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\BLL\bin\Debug\BLL.pdb
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\BLL\bin\Debug\DAL.dll
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\BLL\bin\Debug\DAL.pdb
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\BLL\obj\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\Yedekler\Proje Odevi Yedek\Son\BLL\obj\Debug\BLL.pdb
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\BLL\bin\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\BLL\bin\Debug\BLL.pdb
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\BLL\bin\Debug\DAL.dll
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\BLL\bin\Debug\DAL.pdb
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\BLL\obj\Debug\BLL.dll
+C:\Users\Ersin Coklu\Desktop\Graduation Projec\GraduationProject\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42FAD885-B019-44E2-BC80-D0AFFBC485C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjeOdevi</RootNamespace>
+    <AssemblyName>ProjeOdevi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.4.0.1, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DovizCevirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DovizCevirme.Designer.cs">
+      <DependentUpon>DovizCevirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HarcamalarOdemeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HarcamalarOdemeler.Designer.cs">
+      <DependentUpon>HarcamalarOdemeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Islem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Islem.Designer.cs">
+      <DependentUpon>Islem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KaraListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KaraListe.Designer.cs">
+      <DependentUpon>KaraListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KaraListeIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KaraListeIslemleri.Designer.cs">
+      <DependentUpon>KaraListeIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KasaIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KasaIslemleri.Designer.cs">
+      <DependentUpon>KasaIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasalar.Designer.cs">
+      <DependentUpon>Kasalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiraIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiraIslem.Designer.cs">
+      <DependentUpon>KiraIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiralikDvd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiralikDvd.Designer.cs">
+      <DependentUpon>KiralikDvd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciGiris.Designer.cs">
+      <DependentUpon>KullaniciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanicilarYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanicilarYonetim.Designer.cs">
+      <DependentUpon>KullanicilarYonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciYonetimIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciYonetimIslemleri.Designer.cs">
+      <DependentUpon>KullaniciYonetimIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriAyar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriAyar.Designer.cs">
+      <DependentUpon>MusteriAyar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriIdFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriIdFormu.Designer.cs">
+      <DependentUpon>MusteriIdFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriIslem.Designer.cs">
+      <DependentUpon>MusteriIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusterilerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusterilerForm.Designer.cs">
+      <DependentUpon>MusterilerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Satis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Satis.Designer.cs">
+      <DependentUpon>Satis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunIdFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunIdFormu.Designer.cs">
+      <DependentUpon>UrunIdFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunSatis.Designer.cs">
+      <DependentUpon>UrunSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunlerDvd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunlerDvd.Designer.cs">
+      <DependentUpon>UrunlerDvd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunlerVcd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunlerVcd.Designer.cs">
+      <DependentUpon>UrunlerVcd.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DovizCevirme.resx">
+      <DependentUpon>DovizCevirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HarcamalarOdemeler.resx">
+      <DependentUpon>HarcamalarOdemeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Islem.resx">
+      <DependentUpon>Islem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KaraListe.resx">
+      <DependentUpon>KaraListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KaraListeIslemleri.resx">
+      <DependentUpon>KaraListeIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KasaIslemleri.resx">
+      <DependentUpon>KasaIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasalar.resx">
+      <DependentUpon>Kasalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiraIslem.resx">
+      <DependentUpon>KiraIslem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiralikDvd.resx">
+      <DependentUpon>KiralikDvd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciGiris.resx">
+      <DependentUpon>KullaniciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanicilarYonetim.resx">
+      <DependentUpon>KullanicilarYonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciYonetimIslemleri.resx">
+      <DependentUpon>KullaniciYonetimIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriAyar.resx">
+      <DependentUpon>MusteriAyar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriIdFormu.resx">
+      <DependentUpon>MusteriIdFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriIslem.resx">
+      <DependentUpon>MusteriIslem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusterilerForm.resx">
+      <DependentUpon>MusterilerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\ProjeOdevi.Form1.resources" />
+    <EmbeddedResource Include="obj\Debug\ProjeOdevi.Properties.Resources.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Satis.resx">
+      <DependentUpon>Satis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunIdFormu.resx">
+      <DependentUpon>UrunIdFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunSatis.resx">
+      <DependentUpon>UrunSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunlerDvd.resx">
+      <DependentUpon>UrunlerDvd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunlerVcd.resx">
+      <DependentUpon>UrunlerVcd.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\ProjeOdevi.exe.config" />
+    <None Include="bin\Debug\ProjeOdevi.vshost.exe.config" />
+    <None Include="bin\Debug\ProjeOdevi.vshost.exe.manifest" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ProjeOdevi.exe" />
+    <Content Include="bin\Debug\ProjeOdevi.pdb" />
+    <Content Include="bin\Debug\ProjeOdevi.vshost.exe" />
+    <Content Include="images\dvd-icon1.png" />
+    <Content Include="images\vcd-file.png" />
+    <Content Include="obj\Debug\ProjeOdevi.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\ProjeOdevi.exe" />
+    <Content Include="obj\Debug\ProjeOdevi.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{d404e161-c19b-4c8e-9fcc-63d045f1ccc8}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{0edb818c-a6b4-4f9e-8731-0809bae358a4}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
